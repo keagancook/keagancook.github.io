@@ -5,11 +5,13 @@ import { skeleton } from '../../utils';
 const ListItem = ({
   time,
   position,
+  location,
   company,
   companyLink,
 }: {
   time: React.ReactNode;
   position?: React.ReactNode;
+  location?: React.ReactNode;
   company?: React.ReactNode;
   companyLink?: string;
 }) => (
@@ -22,6 +24,7 @@ const ListItem = ({
     <h3 className="font-semibold">{position}</h3>
     <div className="mb-4 font-normal">
       <a href={companyLink} target="_blank" rel="noreferrer">
+        {location}
         {company}
       </a>
     </div>
@@ -50,6 +53,7 @@ const ExperienceCard = ({
             heightCls: 'h-4',
             className: 'my-1.5',
           })}
+          location={skeleton({ widthCls: 'w-6/12', heightCls: 'h-3' })}
           company={skeleton({ widthCls: 'w-6/12', heightCls: 'h-3' })}
         />,
       );
@@ -80,6 +84,7 @@ const ExperienceCard = ({
                     key={index}
                     time={`${experience.from} - ${experience.to}`}
                     position={experience.position}
+                    location={experience.location}
                     company={experience.company}
                     companyLink={
                       experience.companyLink
