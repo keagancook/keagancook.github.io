@@ -91,7 +91,7 @@ const CONFIG = {
       position: 'Server',
       location: 'Galilee, Rhode Island',
       from: 'July 2024',
-      to: 'Present | Part-Time',
+      to: 'Present',
       companyLink: 'https://www.georgesofgalilee.com/',
     },
     {
@@ -107,7 +107,7 @@ const CONFIG = {
       position: 'Server',
       location: 'Scottsdale, Arizona',
       from: 'October 2020',
-      to: 'March 2023',
+      to: 'March 2023 | Part-Time',
       companyLink: 'https://rasushi.com',
     },
   ],
