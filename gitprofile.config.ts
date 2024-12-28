@@ -62,20 +62,17 @@ const CONFIG = {
       'https://ultrakeagan.ddns.net/index.php/s/LwHMZKSZW8Ny4cX/download/KEAGAN%20COOK%20-%20SECURITY%20ANALYST.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
+    'Python',
+    'Bash',
+    'Flask',
+    'Suricata',
+    'Wazuh',
+    'Kibana',
     'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
     'MySQL',
     'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
   ],
   experiences: [
     {
@@ -107,6 +104,12 @@ const CONFIG = {
       degree: 'Audio Engineering and Music Production Certification',
       from: '2017',
       to: '2019',
+    },
+    {
+      institution: 'Hack The Box',
+      degree: 'Certified Penetration Testing Specialist',
+      from: 'Jan 2024',
+      to: 'Ongoing',
     },
   ],
 /*
