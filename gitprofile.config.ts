@@ -28,8 +28,7 @@ const CONFIG = {
         projects: ['arifszn/gitprofile', 'arifszn/pandora'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
-
-    
+  },
   seo: {
     title: 'Portfolio of Keagan Cook',
     description: '',
