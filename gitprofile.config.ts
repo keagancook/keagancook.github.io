@@ -83,7 +83,7 @@ const CONFIG = {
       position: 'Lead Tech',
       location: 'Phoenician and Newport Harbor Island Resort',
       from: 'July 2019',
-      to: 'Present',
+      to: 'Present | Part-Time',
       companyLink: 'https://www.encoreglobal.com/',
     },
   ],
