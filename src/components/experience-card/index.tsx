@@ -53,7 +53,7 @@ const ExperienceCard = ({
             heightCls: 'h-4',
             className: 'my-1.5',
           })}
-          location={skeleton({ widthCls: 'w-6/12', heightCls: 'h-3' })}
+          location={skeleton({ widthCls: 'w-6/12', heightCls: 'h-4' })}
           company={skeleton({ widthCls: 'w-6/12', heightCls: 'h-3' })}
         />,
       );
