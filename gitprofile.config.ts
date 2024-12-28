@@ -86,6 +86,22 @@ const CONFIG = {
       to: 'Present | Part-Time',
       companyLink: 'https://www.encoreglobal.com/',
     },
+    {
+      company: 'Georges of Galilee',
+      position: 'Server',
+      location: 'Galilee, Rhode Island',
+      from: 'July 2024',
+      to: 'Present | Part-Time',
+      companyLink: 'https://www.georgesofgalilee.com/',
+    },
+    {
+      company: 'La-Z-Boy',
+      position: 'Senior Sales Associate',
+      location: 'Chandler, Arizona',
+      from: 'March 2023',
+      to: 'June 2024',
+      companyLink: 'https://www.la-z-boy.com',
+    },
   ],
   certifications: [
     {
