@@ -59,7 +59,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://ultrakeagan.ddns.net/index.php/s/LwHMZKSZW8Ny4cX', // Empty fileUrl will hide the `Download Resume` button.
+      'https://ultrakeagan.ddns.net/index.php/s/eGASGDAaDzTDAo7', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'SIEM',
