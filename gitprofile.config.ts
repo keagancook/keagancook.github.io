@@ -79,7 +79,7 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Encore',
+      company: 'PSAV & Encore',
       position: 'Lead Tech',
       location: 'Phoenician and Newport Harbor Island Resort',
       from: 'July 2019',
