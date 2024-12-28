@@ -81,16 +81,10 @@ const CONFIG = {
     {
       company: 'Encore',
       position: 'Lead Tech',
-      from: 'September 2021',
+      location: 'Phoenician and Newport Harbor Island Resort',
+      from: 'July 2019',
       to: 'Present',
       companyLink: 'https://www.encoreglobal.com/',
-    },
-    {
-      company: 'PSAV',
-      position: 'Audio Engineer',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://psav.com/',
     },
   ],
   certifications: [
