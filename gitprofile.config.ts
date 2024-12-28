@@ -59,7 +59,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://ultrakeagan.ddns.net/index.php/s/LwHMZKSZW8Ny4cX/download/KEAGAN%20COOK%20-%20SECURITY%20ANALYST.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
@@ -79,40 +79,34 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'Encore',
+      position: 'Lead Tech',
       from: 'September 2021',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.encoreglobal.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
+      company: 'PSAV',
+      position: 'Audio Engineer',
       from: 'July 2019',
       to: 'August 2021',
-      companyLink: 'https://example.com',
+      companyLink: 'https://psav.com/',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'CompTIA',
+      body: 'Security+',
+      year: 'January 2025',
+      link: '',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
+      institution: 'Conservatory of Recording Arts and Sciences (CRAS)',
+      degree: 'Audio Engineering and Music Production Certification',
+      from: '2017',
       to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
     },
   ],
 /*
