@@ -81,7 +81,7 @@ const CONFIG = {
     {
       company: 'PSAV & Encore',
       position: 'Lead Tech',
-      location: 'Phoenician and Newport Harbor Island Resort',
+      location: 'Phoenician Scottsdale and Newport Harbor Island Resort',
       from: 'July 2019',
       to: 'Present | Part-Time',
       companyLink: 'https://www.encoreglobal.com/',
@@ -101,6 +101,14 @@ const CONFIG = {
       from: 'March 2023',
       to: 'June 2024',
       companyLink: 'https://www.la-z-boy.com',
+    },
+    {
+      company: 'Ra-Sushi',
+      position: 'Server',
+      location: 'Scottsdale, Arizona',
+      from: 'October 2020',
+      to: 'March 2023',
+      companyLink: 'https://rasushi.com',
     },
   ],
   certifications: [
