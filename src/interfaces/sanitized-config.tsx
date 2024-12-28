@@ -72,6 +72,7 @@ export interface SanitizedResume {
 export interface SanitizedExperience {
   company?: string;
   position?: string;
+  location?: string;
   from: string;
   to: string;
   companyLink?: string;
