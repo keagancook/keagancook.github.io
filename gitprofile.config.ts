@@ -205,8 +205,8 @@ const CONFIG = {
     customTheme: {
       primary: '#f00400',
       secondary: '#ffeb05',
-      accent: '#e8d03a',
-      neutral: '#2A2730',
+      accent: '#CCBB00',
+      neutral: '#CCBB00',
       'base-100': '#E3E3ED',
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
