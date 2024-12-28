@@ -62,17 +62,20 @@ const CONFIG = {
       'https://ultrakeagan.ddns.net/index.php/s/LwHMZKSZW8Ny4cX/download/KEAGAN%20COOK%20-%20SECURITY%20ANALYST.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
+    'SIEM',
+    'ELK Stack',
+    'Wazuh',
+    'Suricata',
+    'Kibana',
+    'PHP',
     'Python',
     'Bash',
     'Flask',
-    'Suricata',
-    'Wazuh',
-    'Kibana',
-    'PHP',
     'MySQL',
     'PostgreSQL',
     'Git',
     'Docker',
+    'Kali Linux',
   ],
   experiences: [
     {
