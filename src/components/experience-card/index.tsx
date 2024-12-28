@@ -22,11 +22,11 @@ const ListItem = ({
     ></div>
     <div className="my-0.5 text-xs">{time}</div>
     <h3 className="font-semibold">{position}</h3>
-    <div className="mb-4 font-normal">{location}</div>
     <div className="mb-4 font-normal">
       <a href={companyLink} target="_blank" rel="noreferrer">
         {company}
       </a>
+    <div className="my-0.5 text-xs">{location}</div>
     </div>
   </li>
 );
@@ -53,8 +53,8 @@ const ExperienceCard = ({
             heightCls: 'h-4',
             className: 'my-1.5',
           })}
-          location={skeleton({ widthCls: 'w-5/12', heightCls: 'h-4' })}
           company={skeleton({ widthCls: 'w-6/12', heightCls: 'h-3' })}
+          location={skeleton({ widthCls: 'w-5/12', heightCls: 'h-4' })}
         />,
       );
     }
