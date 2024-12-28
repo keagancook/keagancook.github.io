@@ -207,7 +207,7 @@ const CONFIG = {
       secondary: '#D10000',
       accent: '#F00000',
       neutral: '#CCBB00',
-      'base-100': '#FFEB05',
+      'base-100': '#A49797',
       '--rounded-box': '3rem',
       '--rounded-btn': '3rem',
     },
